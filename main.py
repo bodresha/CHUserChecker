@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Meshal Alenezi aka Bodresha
+# ClubHouse Username Checker
 # -*- coding: UTF-8 -*-
 
 import os
