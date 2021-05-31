@@ -16,11 +16,11 @@ Clone it
   ### Usage
   
  ```sh
- python main.py -wordlist users.txt -threading 5 -proxy file.txt
+ python main.py -wordlist users.txt -threading 5 -proxy proxies.txt
  ```
  
  users.txt = Usernames you need to check if it is taken or not .
- file.txt = Proxies that stored in text file , i do not use this option since never got block from joinclubhouse.com side 
+ proxies.txt = Proxies that stored in text file , i do not use this option since never got block from joinclubhouse.com side 
  
  The results of available usernames will be output in file called available.txt
  
